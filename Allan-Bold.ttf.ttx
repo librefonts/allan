@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Allan-Bold.ttf.GlyphOrder.ttx"/>
+  <head src="Allan-Bold.ttf._h_e_a_d.ttx"/>
+  <hhea src="Allan-Bold.ttf._h_h_e_a.ttx"/>
+  <maxp src="Allan-Bold.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Allan-Bold.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Allan-Bold.ttf._h_m_t_x.ttx"/>
+  <cmap src="Allan-Bold.ttf._c_m_a_p.ttx"/>
+  <fpgm src="Allan-Bold.ttf._f_p_g_m.ttx"/>
+  <prep src="Allan-Bold.ttf._p_r_e_p.ttx"/>
+  <cvt src="Allan-Bold.ttf._c_v_t.ttx"/>
+  <loca src="Allan-Bold.ttf._l_o_c_a.ttx"/>
+  <glyf src="Allan-Bold.ttf._g_l_y_f.ttx"/>
+  <kern src="Allan-Bold.ttf._k_e_r_n.ttx"/>
+  <name src="Allan-Bold.ttf._n_a_m_e.ttx"/>
+  <post src="Allan-Bold.ttf._p_o_s_t.ttx"/>
+  <FFTM src="Allan-Bold.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="Allan-Bold.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="Allan-Bold.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="Allan-Bold.ttf.G_S_U_B_.ttx"/>
+</ttFont>
